@@ -4,11 +4,11 @@
 
 Вот последние мои проекты:
 
-[«Сложно сосредоточиться»]([url](https://github.com/eamazur/slozhno-sosredotochitsya.git)) - адаптивный сайт с сменой цветовой темы и изменением лейаута 
+[«Сложно сосредоточиться»](https://github.com/eamazur/slozhno-sosredotochitsya.git) - адаптивный сайт с сменой цветовой темы и изменением лейаута 
 
-[«Посмотри в окно»]([url](https://github.com/eamazur/posmotri_v_okno.git)) - оформление сайта с готовой версткой и скриптом. Стилизация форм, состояний элементов 
+[«Посмотри в окно»](https://github.com/eamazur/posmotri_v_okno.git) - оформление сайта с готовой версткой и скриптом. Стилизация форм, состояний элементов 
 
-[«Оно тебе надо»]([url](https://github.com/eamazur/ono-tebe-nado.git)) - верстка и стилизация статического сайта для одного разрешения экрана 
+[«Оно тебе надо»](https://github.com/eamazur/ono-tebe-nado.git) - верстка и стилизация статического сайта для одного разрешения экрана 
 
 <!--
 **eamazur/eamazur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
